@@ -1,0 +1,4 @@
+applications:
+- name: node-red-todo-app-asdasdasdasd
+  memory: 256MB
+  instances: 1
